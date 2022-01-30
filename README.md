@@ -1,6 +1,7 @@
 ### Hi there 👋
 🌱 I’m Studying Computer Science 
-
+🔭 I’m currently working on improving my experience in more programming languages and concepts.
+👯 I’m planning to collaborate on open-source projects.
 ![Kr24DwUk7kiFx4V3gr5S652MI67Wf6RLaYtuKip-Wl-U_w0-hjHVAh4jqWYjzHzin98TW37M1J_TYJ](https://user-images.githubusercontent.com/94930553/151575516-fa3a5314-1db9-4f56-b2dc-55bce31f0e5c.gif)
 
 <!--
