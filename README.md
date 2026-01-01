@@ -53,7 +53,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [Hassan Abdelshafy](https://linkedin.com/in/hassan-abdelshafy)
+* **LinkedIn:** [Hassan Abdelshafy](https://www.linkedin.com/in/hassanabdelshafy/)
 * **Email:** <hassan.abdelshafy14@gmail.com>
 
 ---
