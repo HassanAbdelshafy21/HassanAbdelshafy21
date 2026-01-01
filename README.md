@@ -58,10 +58,6 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-### 📊 GitHub Stats
-
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAbdelshafy21&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAbdelshafy21&layout=compact&theme=dark)
 
 <div align="center">
   <i>"Building intelligent systems that understand context, remember conversations, and solve complex problems."</i>
