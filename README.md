@@ -4,60 +4,65 @@
 
 I'm passionate about building intelligent systems that solve real-world problems. Currently focused on AI agent development, conversation memory systems, and creating sophisticated financial tools powered by artificial intelligence.
 
-### 🤖 AI & Machine Learning
-- **AI Agent Development**: Building multi-agent systems with LangGraph and conversation memory
-- **Large Language Models**: Working with OpenAI GPT for intelligent applications
-- **Tool Creation**: Developing specialized AI tools for financial analysis and planning
-- **Context Management**: Implementing persistent conversation memory across sessions
+---
+
+### 🚀 Featured Projects
+
+#### 🎙️ [Quran ASR for Kids](https://github.com/HassanAbdelshafy21/Quran-ARS)
+
+**An advanced AI system designed to listen, transcribe, and grade children's recitation of the Holy Quran.**
+
+* **Core Tech:** OpenAI Whisper (Fine-tuned V5-30k), PyTorch, FastAPI.
+* **Innovation:** Features a "Tolerant Grader" engine using phonetic normalization to handle child speech quirks (e.g., "mumbling", "stuttering") and provides instant TTS feedback.
+* **Impact:** Solves the challenge of ASR for low-resource domains (Child Arabic Speech) with ~95% practical accuracy.
+
+#### 🤖 [Financial AI Agents](https://github.com/HassanAbdelshafy21/financial-ai-agents)
+
+**An advanced AI-powered financial assistant.**
+
+* **Architecture:** Multi-agent system with 9 specialized financial tools.
+* **Tech Stack:** LangGraph, OpenAI GPT, SQLAlchemy, Docker.
+* **Features:** Persistent conversation memory, PDF report generation, and real-time context awareness.
+
+---
+
+### 🤖 AI & Machine Learning Capabilities
+
+* **Advanced ASR:** Fine-tuning Whisper models for specialized domains (Accents, Kids).
+* **Agentic Workflows:** Building multi-agent systems with LangGraph.
+* **LLM Engineering:** Prompt engineering, RAG pipelines, and Context Management.
+* **Tool Creation:** Developing specialized AI tools for specific business verticals.
 
 ### 💻 Technical Skills
-- **Languages**: Python, JavaScript
-- **AI/ML**: LangGraph, OpenAI API, Agent Orchestration, Conversation Memory
-- **Backend**: FastAPI, SQLAlchemy, Async Programming
-- **Databases**: MySQL, Redis, Alembic Migrations
-- **Frontend**: Streamlit, HTML/CSS
-- **DevOps**: Docker, Docker Compose
-- **Tools**: Git, JWT Authentication, PDF Generation
 
-### 🚀 Featured Project
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | Python, JavaScript |
+| **AI/ML** | PyTorch, OpenAI API, LangGraph, Whisper, Hugging Face |
+| **Backend** | FastAPI, SQLAlchemy, Async Programming |
+| **Databases** | MySQL, Redis, Alembic Migrations |
+| **DevOps** | Docker, Git, CI/CD |
 
-**[Financial AI Agents](https://github.com/HassanAbdelshafy21/financial-ai-agents)**
-An advanced AI-powered financial assistant featuring:
-- Multi-agent system with 9 specialized financial tools
-- Persistent conversation memory using LangGraph
-- Real-time context awareness across chat sessions
-- PDF report generation and user authentication
-- Complete REST API with database persistence
+---
 
 ### 🌱 Currently Learning
-- Advanced AI agent orchestration patterns
-- Multi-modal AI applications
-- Production AI system deployment
-- Vector databases and embeddings
+
+* Multi-modal AI applications (Video + Audio)
+* Production AI system deployment patterns (ONNX, TensorRT)
+* Vector databases and advanced embeddings
 
 ### 📫 Let's Connect
-- LinkedIn: [Hassan Abdelshafy](https://linkedin.com/in/hassan-abdelshafy)
-- Email: hassanabdelshafy@example.com
+
+* **LinkedIn:** [Hassan Abdelshafy](https://linkedin.com/in/hassan-abdelshafy)
+* **Email:** <hassan.abdelshafy14@gmail.com>
+
+---
 
 ### 📊 GitHub Stats
+
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAbdelshafy21&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAbdelshafy21&layout=compact&theme=dark)
 
----
-*"Building intelligent systems that understand context, remember conversations, and solve complex problems."*
-![Kr24DwUk7kiFx4V3gr5S652MI67Wf6RLaYtuKip-Wl-U_w0-hjHVAh4jqWYjzHzin98TW37M1J_TYJ](https://user-images.githubusercontent.com/94930553/151575516-fa3a5314-1db9-4f56-b2dc-55bce31f0e5c.gif)
-
-<!--
-**HassanAbdelshafy21/HassanAbdelshafy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i>"Building intelligent systems that understand context, remember conversations, and solve complex problems."</i>
+</div>
