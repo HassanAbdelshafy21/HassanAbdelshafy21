@@ -7,7 +7,7 @@ for problem in world.unsolved():
 
 <h1>Hassan Abdelshafy</h1>
 
-**AI Engineer · Python Developer · ML Enthusiast**
+**AI Engineer**
 
 &nbsp;
 <table><tr>
