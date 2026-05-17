@@ -1,64 +1,71 @@
-# Hi there, I'm Hassan Abdelshafy 👋
+```python
+pipeline = ["listen", "understand", "act", "speak"]
+for problem in world.unsolved():
+    build(solution, deploy=True)
+# running...
+```
 
-## AI Engineer | Python Developer | Machine Learning Enthusiast
+<h1>Hassan Abdelshafy</h1>
 
-I'm passionate about building intelligent systems that solve real-world problems. Currently focused on AI agent development, conversation memory systems, and creating sophisticated financial tools powered by artificial intelligence.
+**AI Engineer · Python Developer · ML Enthusiast**
 
----
+&nbsp;
+<table><tr>
+<td><b>🤖 AI Agents & LLM Engineering</b></td>
+<td><b>🎙️ Voice AI</b></td>
+</tr></table>
 
-### 🚀 Featured Projects
-
-#### 🎙️ [Quran ASR for Kids](https://github.com/HassanAbdelshafy21/Quran-ARS)
-
-**An advanced AI system designed to listen, transcribe, and grade children's recitation of the Holy Quran.**
-
-* **Core Tech:** OpenAI Whisper (Fine-tuned V5-30k), PyTorch, FastAPI.
-* **Innovation:** Features a "Tolerant Grader" engine using phonetic normalization to handle child speech quirks (e.g., "mumbling", "stuttering") and provides instant TTS feedback.
-* **Impact:** Solves the challenge of ASR for low-resource domains (Child Arabic Speech) with ~95% practical accuracy.
-
-#### 🤖 [Financial AI Agents](https://github.com/HassanAbdelshafy21/financial-ai-agents)
-
-**An advanced AI-powered financial assistant.**
-
-* **Architecture:** Multi-agent system with 9 specialized financial tools.
-* **Tech Stack:** LangGraph, OpenAI GPT, SQLAlchemy, Docker.
-* **Features:** Persistent conversation memory, PDF report generation, and real-time context awareness.
+![FastAPI](https://img.shields.io/badge/FastAPI-%23378ADD?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-%23D85A30?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-%231D9E75?style=flat-square)
+![Multi--agent](https://img.shields.io/badge/Multi--agent%20Systems-%237F77DD?style=flat-square)
+![Cairo](https://img.shields.io/badge/Cairo%2C%20EG-%23888780?style=flat-square)
 
 ---
 
-### 🤖 AI & Machine Learning Capabilities
+## // Featured Projects
 
-* **Advanced ASR:** Fine-tuning Whisper models for specialized domains (Accents, Kids).
-* **Agentic Workflows:** Building multi-agent systems with LangGraph.
-* **LLM Engineering:** Prompt engineering, RAG pipelines, and Context Management.
-* **Tool Creation:** Developing specialized AI tools for specific business verticals.
+### 🎙️ [Quran ASR for Kids](https://github.com/HassanAbdelshafy21/Quran-ARS) &nbsp;`Voice AI`
 
-### 💻 Technical Skills
+Fine-tuned Whisper V5 pipeline that transcribes and grades children's Quran recitation. A custom **Tolerant Grader** handles child speech patterns — mumbling, stuttering — via phonetic normalization with instant TTS feedback. Tackles the low-resource challenge of Arabic child speech.
 
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | Python, JavaScript |
-| **AI/ML** | PyTorch, OpenAI API, LangGraph, Whisper, Hugging Face |
-| **Backend** | FastAPI, SQLAlchemy, Async Programming |
-| **Databases** | MySQL, Redis, Alembic Migrations |
-| **DevOps** | Docker, Git, CI/CD |
+`Whisper` `PyTorch` `FastAPI` `TTS` `NLP` `Arabic ASR` &nbsp;·&nbsp; **~95% practical accuracy**
 
 ---
 
-### 🌱 Currently Learning
+### 🤖 [Financial AI Agents](https://github.com/HassanAbdelshafy21/financial-ai-agents) &nbsp;`AI Agents`
 
-* Multi-modal AI applications (Video + Audio)
-* Production AI system deployment patterns (ONNX, TensorRT)
-* Vector databases and advanced embeddings
+Multi-agent financial assistant built on LangGraph with 9 specialized tools. Persistent conversation memory, PDF report generation, and real-time context awareness across complex financial queries.
 
-### 📫 Let's Connect
-
-* **LinkedIn:** [Hassan Abdelshafy](https://www.linkedin.com/in/hassanabdelshafy/)
-* **Email:** <hassan.abdelshafy14@gmail.com>
+`LangGraph` `OpenAI GPT` `SQLAlchemy` `Docker` &nbsp;·&nbsp; **9 tools · persistent memory**
 
 ---
 
+## // Stack
 
-<div align="center">
-  <i>"Building intelligent systems that understand context, remember conversations, and solve complex problems."</i>
-</div>
+| | |
+|:--|:--|
+| **Voice AI** | Whisper · TTS · STT · Phonetics · PyTorch |
+| **AI / ML** | LangGraph · OpenAI API · Hugging Face · RAG |
+| **Backend** | FastAPI · SQLAlchemy · Async Python · Redis · MySQL |
+| **DevOps** | Docker · Git · CI/CD · Alembic |
+
+---
+
+## // Currently Training On
+
+- Advanced TTS — expressive & real-time synthesis
+- STT for low-resource & dialectal Arabic
+- Multi-modal AI — audio + video pipelines
+- Production deployment with ONNX & TensorRT
+
+---
+
+## // Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Abdelshafy-%230C447C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanabdelshafy/)
+[![Email](https://img.shields.io/badge/Email-hassan.abdelshafy14%40gmail.com-%23534AB7?style=flat-square&logo=gmail&logoColor=white)](mailto:hassan.abdelshafy14@gmail.com)
+
+---
+
+<sub>→ I build systems that listen, understand, and speak — and agents that act on what they hear.</sub>
