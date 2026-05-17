@@ -8,7 +8,6 @@ for problem in world.unsolved():
 <h1>Hassan Abdelshafy</h1>
 
 **AI Engineer**
-
 &nbsp;
 <table><tr>
 <td><b>🤖 AI Agents & LLM Engineering</b></td>
